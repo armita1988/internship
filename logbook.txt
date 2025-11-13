@@ -1,0 +1,58 @@
+Weekly Logbook – Stage (Oct 14 – Dec 19, 2025)
+
+Student: Armita Haji Mani
+Company: KinoKlik (Canada)
+Program: Full-Stack Development – John Abbott College
+Stage Duration: October 14 – December 19, 2025
+Description:
+This weekly logbook summarizes the tasks completed during the internship at KinoKlik, covering front-end and back-end development work on the EPK/Actor platform.
+
+⸻
+
+Week 1 (Oct 14–19, 2025)
+
+Task 1 – Project Setup & Environment Configuration
+Set up local development environment, cloned front-end and back-end repositories, installed dependencies, and ran both projects locally.
+
+Task 2 – Access & Tools Setup
+Received access to GitHub, Slack, Figma, Trello, and the company resources required for daily development.
+
+Task 3 – Project Architecture Review
+Reviewed the overall project structure on both the front-end and back-end, explored the database schema (MongoDB), and familiarized myself with the EPK platform’s workflows.
+
+⸻
+
+Week 2 (Oct 20–26, 2025)
+
+Task 1 – Update “Create” Button Label
+Renamed and updated the label of the “Create” button in the Actor dashboard.
+
+Task 2 – Actor Sign-Up Form Update
+Added gender options and updated select inputs in the Actor registration form.
+
+Task 3 – Actor Page Redesign (Desktop Version) – Started
+Began redesigning and restructuring the Actor page UI based on the new desktop design requirements.
+
+⸻
+
+Week 3 (Oct 27–Nov 2, 2025)
+
+Task 1 – Actor Page Redesign (Desktop Version) – Continued
+Continued implementing the updated layout and components for the Actor page’s new desktop design.
+
+Task 2 – Fixing Sign-Up / Password Reset Error
+Resolved backend issues that prevented new users from signing up or resetting passwords. Both authentication flows now function correctly.
+
+⸻
+
+Week 4 (Nov 3 – Nov 9)
+
+Task 1 – Filmmaker Notifications Page Redesign for mobile (Like Section) – Started
+Began redesigning and restructuring the Filmmaker Notifications page UI based on the new mobile design requirements.
+
+⸻
+
+Week 5 (Nov 10, Nov 16)
+
+Task 1 – Filmmaker Notifications Page Redesign for mobile (Like Section) – Continued
+Continued implementing the updated layout and components for the Filmmaker Notifications page's new mobile design.
