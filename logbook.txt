@@ -1,58 +1,98 @@
-Weekly Logbook – Stage (Oct 14 – Dec 19, 2025)
+Weekly Internship Logbook  
+Name: Armita Haji Mani  
+Company: KinoKlik  
+Supervisor: Alberto Tihan  
+Internship Period: October 14, 2025 – December 19, 2025  
 
-Student: Armita Haji Mani
-Company: KinoKlik (Canada)
-Program: Full-Stack Development – John Abbott College
-Stage Duration: October 14 – December 19, 2025
-Description:
-This weekly logbook summarizes the tasks completed during the internship at KinoKlik, covering front-end and back-end development work on the EPK/Actor platform.
+--------------------------------------------------
 
-⸻
+Week 1 (Oct 14 – Oct 19)
 
-Week 1 (Oct 14–19, 2025)
+Task 1 – Project Onboarding and Environment Setup  
+Reviewed the overall structure of the KinoKlik project, including frontend and backend architecture. Set up the local development environment by cloning repositories and running both frontend and backend projects locally.
 
-Task 1 – Project Setup & Environment Configuration
-Set up local development environment, cloned front-end and back-end repositories, installed dependencies, and ran both projects locally.
+Task 2 – Platform Familiarization  
+Explored the KinoKlik platform to understand its purpose, main features, and user flows. Reviewed existing pages and components to become familiar with the product and its functionality.
 
-Task 2 – Access & Tools Setup
-Received access to GitHub, Slack, Figma, Trello, and the company resources required for daily development.
+--------------------------------------------------
 
-Task 3 – Project Architecture Review
-Reviewed the overall project structure on both the front-end and back-end, explored the database schema (MongoDB), and familiarized myself with the EPK platform’s workflows.
+Week 2 (Oct 20 – Oct 26)
 
-⸻
+Task 1 – UI Text Update (Create Button)  
+Updated UI text by renaming the "Create" button to improve clarity and consistency with the platform’s design language.
 
-Week 2 (Oct 20–26, 2025)
+Task 2 – Learning Tailwind  
+Started learning Tailwind for styling webpages.
 
-Task 1 – Update “Create” Button Label
-Renamed and updated the label of the “Create” button in the Actor dashboard.
+Task 3 – Actor Signup Form Update  
+Added gender selection options to the actor signup form and adjusted related UI elements to support the new field.
 
-Task 2 – Actor Sign-Up Form Update
-Added gender options and updated select inputs in the Actor registration form.
+Task 4 – Actor Page UI Redesign (Desktop)  
+Started redesigning the actor page layout for desktop view, focusing on improving structure, spacing, and overall visual consistency.
 
-Task 3 – Actor Page Redesign (Desktop Version) – Started
-Began redesigning and restructuring the Actor page UI based on the new desktop design requirements.
+--------------------------------------------------
 
-⸻
+Week 3 (Oct 27 – Nov 2)
 
-Week 3 (Oct 27–Nov 2, 2025)
+Task 1 – Actor Page UI Redesign (Desktop) – Continued  
+Continued modernizing the actor page UI for desktop, refining layout structure and visual elements.
 
-Task 1 – Actor Page Redesign (Desktop Version) – Continued
-Continued implementing the updated layout and components for the Actor page’s new desktop design.
+Task 2 – Backend Fixes for Signup and Login  
+Fixed backend issues affecting new user registration and login to ensure proper authentication behavior.
 
-Task 2 – Fixing Sign-Up / Password Reset Error
-Resolved backend issues that prevented new users from signing up or resetting passwords. Both authentication flows now function correctly.
-
-⸻
+--------------------------------------------------
 
 Week 4 (Nov 3 – Nov 9)
 
-Task 1 – Filmmaker Notifications Page Redesign for mobile (Like Section) – Started
-Began redesigning and restructuring the Filmmaker Notifications page UI based on the new mobile design requirements.
+Task 1 – Filmmaker Notifications Page Redesign for Mobile (Like Section)  
+Started redesigning the Like section of the Filmmaker Notifications page for mobile view, focusing on layout improvements and responsive behavior.
 
-⸻
+--------------------------------------------------
 
-Week 5 (Nov 10, Nov 16)
+Week 5 (Nov 10 – Nov 16)
 
-Task 1 – Filmmaker Notifications Page Redesign for mobile (Like Section) – Continued
-Continued implementing the updated layout and components for the Filmmaker Notifications page's new mobile design.
+Task 1 – Filmmaker Notifications Page Redesign for Mobile (Like Section) – Continued  
+Continued implementing layout updates and UI components for the Like section of the Filmmaker Notifications page (mobile design).
+
+Task 2 – Fix Account Switching Inconsistency  
+Resolved an issue where switching from one account to another did not fully clear the previous user's session, causing inconsistent authentication behavior.
+
+--------------------------------------------------
+
+Week 6 (Nov 17 – Nov 23)
+
+Task 1 – Filmmaker Notifications Page Redesign for Mobile (Gallery Section)  
+Started redesigning the Gallery section of the Filmmaker Notifications page for mobile view, focusing on layout improvements and responsive behavior.
+
+--------------------------------------------------
+
+Week 7 (Nov 24 – Nov 30)
+
+Task 1 – Filmmaker Notifications Page Redesign for Mobile (Request Section)  
+Started redesigning the Request section of the Filmmaker Notifications page for mobile view, focusing on layout improvements and responsive behavior.
+
+--------------------------------------------------
+
+Week 8 (Dec 1 – Dec 7)
+
+Task 1 – Reimplementing Reset Password Flow  
+Worked on fixing issues related to user password reset flows, ensuring proper backend validation and functionality.
+
+Task 2 – Updating EPK Photo Album Section in User Dashboard (Desktop & Mobile)  
+Added extra categories for the EPK photo gallery and redesigned the layout for uploading photos in different categories in the user dashboard for both desktop and mobile versions.
+
+--------------------------------------------------
+
+Week 9 (Dec 8 – Dec 14)
+
+Task 1 – Updating EPK Photo Album Section in EPK Page (Mobile) – Started  
+Started redesigning and restructuring the Gallery section of the EPK page UI based on the new mobile design requirements.
+
+--------------------------------------------------
+
+Week 10 (Dec 15 – Dec 19)
+
+Task 1 – Updating EPK Photo Album Section in EPK Page (Mobile) – Continued  
+Continued implementing the updated layout and components for the Gallery section of the EPK page UI based on the new mobile design requirements.
+
+--------------------------------------------------
